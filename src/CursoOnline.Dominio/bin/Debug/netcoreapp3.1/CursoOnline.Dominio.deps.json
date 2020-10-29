@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CursoOnline.Dominio/1.0.0": {
+        "dependencies": {
+          "CursoOnline.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "CursoOnline.Dominio.dll": {}
+        }
+      },
+      "CursoOnline.Entidades/1.0.0": {
+        "runtime": {
+          "CursoOnline.Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CursoOnline.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CursoOnline.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

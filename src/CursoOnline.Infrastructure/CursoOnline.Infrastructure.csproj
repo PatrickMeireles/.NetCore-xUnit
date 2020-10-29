@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="microsoft.entityframeworkcore" Version="3.1.9" />
+    <PackageReference Include="microsoft.entityframeworkcore.sqlserver" Version="3.1.9" />
+    <PackageReference Include="microsoft.entityframeworkcore.tools" Version="3.1.9">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="microsoft.extensions.configuration.json" Version="3.1.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CursoOnline.Dominio\CursoOnline.Dominio.csproj" />
+    <ProjectReference Include="..\CursoOnline.Entidades\CursoOnline.Entidades.csproj" />
+  </ItemGroup>
+
+</Project>

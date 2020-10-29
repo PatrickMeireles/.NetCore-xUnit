@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CursoOnline.Entidades/1.0.0": {
+        "runtime": {
+          "CursoOnline.Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CursoOnline.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

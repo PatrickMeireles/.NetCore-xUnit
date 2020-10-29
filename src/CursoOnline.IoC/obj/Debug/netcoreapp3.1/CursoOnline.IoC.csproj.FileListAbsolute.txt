@@ -1,0 +1,4 @@
+C:\Git\GitHub\.NetCore-xUnit\src\CursoOnline.IoC\obj\Debug\netcoreapp3.1\CursoOnline.IoC.csprojAssemblyReference.cache
+C:\Git\GitHub\.NetCore-xUnit\src\CursoOnline.IoC\obj\Debug\netcoreapp3.1\CursoOnline.IoC.AssemblyInfoInputs.cache
+C:\Git\GitHub\.NetCore-xUnit\src\CursoOnline.IoC\obj\Debug\netcoreapp3.1\CursoOnline.IoC.AssemblyInfo.cs
+C:\Git\GitHub\.NetCore-xUnit\src\CursoOnline.IoC\obj\Debug\netcoreapp3.1\CursoOnline.IoC.csproj.CoreCompileInputs.cache

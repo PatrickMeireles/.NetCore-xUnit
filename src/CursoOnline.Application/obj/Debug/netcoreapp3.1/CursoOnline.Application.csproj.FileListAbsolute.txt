@@ -1,0 +1,14 @@
+C:\Git\GitHub\.NetCore-xUnit\src\CursoOnline.Application\obj\Debug\netcoreapp3.1\CursoOnline.Application.AssemblyInfoInputs.cache
+C:\Git\GitHub\.NetCore-xUnit\src\CursoOnline.Application\obj\Debug\netcoreapp3.1\CursoOnline.Application.AssemblyInfo.cs
+C:\Git\GitHub\.NetCore-xUnit\src\CursoOnline.Application\obj\Debug\netcoreapp3.1\CursoOnline.Application.csproj.CoreCompileInputs.cache
+C:\Git\GitHub\.NetCore-xUnit\src\CursoOnline.Application\bin\Debug\netcoreapp3.1\CursoOnline.Application.deps.json
+C:\Git\GitHub\.NetCore-xUnit\src\CursoOnline.Application\bin\Debug\netcoreapp3.1\CursoOnline.Application.dll
+C:\Git\GitHub\.NetCore-xUnit\src\CursoOnline.Application\bin\Debug\netcoreapp3.1\CursoOnline.Application.pdb
+C:\Git\GitHub\.NetCore-xUnit\src\CursoOnline.Application\bin\Debug\netcoreapp3.1\CursoOnline.Dominio.dll
+C:\Git\GitHub\.NetCore-xUnit\src\CursoOnline.Application\bin\Debug\netcoreapp3.1\CursoOnline.Entidades.dll
+C:\Git\GitHub\.NetCore-xUnit\src\CursoOnline.Application\bin\Debug\netcoreapp3.1\CursoOnline.Dominio.pdb
+C:\Git\GitHub\.NetCore-xUnit\src\CursoOnline.Application\bin\Debug\netcoreapp3.1\CursoOnline.Entidades.pdb
+C:\Git\GitHub\.NetCore-xUnit\src\CursoOnline.Application\obj\Debug\netcoreapp3.1\CursoOnline.Application.csprojAssemblyReference.cache
+C:\Git\GitHub\.NetCore-xUnit\src\CursoOnline.Application\obj\Debug\netcoreapp3.1\CursoOnline.Application.csproj.CopyComplete
+C:\Git\GitHub\.NetCore-xUnit\src\CursoOnline.Application\obj\Debug\netcoreapp3.1\CursoOnline.Application.dll
+C:\Git\GitHub\.NetCore-xUnit\src\CursoOnline.Application\obj\Debug\netcoreapp3.1\CursoOnline.Application.pdb
